@@ -1,5 +1,7 @@
 cached_countries/
 results/
 *pycache*
+.DS_Store
+._*
 
 *.sublime-project
