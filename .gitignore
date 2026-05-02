@@ -1,6 +1,7 @@
 cached_countries/
 results/
 *pycache*
+.venv/
 .DS_Store
 ._*
 
